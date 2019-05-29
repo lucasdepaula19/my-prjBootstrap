@@ -1,0 +1,45 @@
+body{
+    padding-top: 1em;
+    width: 90%;
+    margin: auto;
+}
+
+form{
+    padding-top: 1em;
+}
+
+#formImput{
+    padding-bottom: 1em;
+}
+
+#div_limit{
+    min-height: 400px;
+    max-height: 400px;
+    overflow-y: scroll;
+    border-style: ridge;
+    border-color: white;
+    border-width: 4px;
+}
+
+.red {
+    color: red;
+  }
+  
+.blue {
+    color: blue;
+}
+
+.collum{
+    padding-top: 5px;
+}
+
+.btnEditar{
+    width: 20px;
+    height: 20px;
+    margin-right: 7px;
+}
+
+.btnExcluir{
+    width: 20px;
+    height: 20px;
+}
